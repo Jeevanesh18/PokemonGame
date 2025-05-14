@@ -4,7 +4,7 @@
 **🕹️ Project Title: Pokémon Adventure – A Data Structure-Based Game**
 
 **📌 Project Overview**
-This project is a simplified Pokémon-style adventure game designed for a Data Structures course. The main objective is to demonstrate understanding and implementation of core data structures through a game that allows the player to:
+This project is a simplified console Pokémon-style adventure game designed for a Data Structures course. The main objective is to demonstrate understanding and implementation of core data structures through a game that allows the player to:
 
 Move around a map (likely represented by a 2D array or graph).
 
