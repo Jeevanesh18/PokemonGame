@@ -1,9 +1,9 @@
 # PokemonGame
 :
 
-##🕹️ Project Title: Pokémon Adventure – A Data Structure-Based Game
+**🕹️ Project Title: Pokémon Adventure – A Data Structure-Based Game**
 
-##📌 Project Overview
+**📌 Project Overview**
 This project is a simplified Pokémon-style adventure game designed for a Data Structures course. The main objective is to demonstrate understanding and implementation of core data structures through a game that allows the player to:
 
 Move around a map (likely represented by a 2D array or graph).
@@ -16,7 +16,7 @@ Collect defeated Pokémon.
 
 Earn and display badges visually through a GUI component.
 
-##👨‍🎓 Purpose
+**👨‍🎓 Purpose**
 The project applies object-oriented programming and core data structures to create an interactive simulation. It showcases:
 
 Use of lists/arrays (ArrayList) to manage dynamic entities (Pokémon, badges).
@@ -25,7 +25,7 @@ Basic GUI programming with Swing (e.g., the BadgeFrame class).
 
 Object-oriented design through classes like Player, Pokemon, and possibly Map.
 
-##🔧 Main Features
+**🔧 Main Features**
 Player Class
 
 Stores the player’s name and current location.
@@ -56,7 +56,7 @@ The player can encounter wild Pokémon, battle them using moves (move1 and move2
 
 After winning, the player levels up and can collect the defeated Pokémon.
 
-##🧠 Data Structures Used
+**🧠 Data Structures Used**
 ArrayList:
 
 For storing Pokémon, badges, strengths, weaknesses — enabling dynamic and flexible collection management.
